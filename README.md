@@ -1,2 +1,3 @@
 # hello-world
-hello  my   first   day
+hello world ！
+first day start 
